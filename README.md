@@ -1,3 +1,5 @@
+# TradePulse
+
 ### Project Description
 This project is a Kenya trade data analytics tool designed to help analysts, researchers, and policymakers explore trends in Kenya’s imports and exports.
 It collects trade statistics from the World Integrated Trade Solution (WITS) API, stores them in a local database, and allows filtering, visualization, and export of insights.
