@@ -1,4 +1,4 @@
-# TradeKE
+# TradeKE Insights
 
 ### Project Description
 This project is a Kenya trade data analytics tool designed to help analysts, researchers, and policymakers explore trends in Kenya’s imports and exports.
