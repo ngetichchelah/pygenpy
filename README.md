@@ -1,4 +1,4 @@
-# TradePulse
+# TradeKE
 
 ### Project Description
 This project is a Kenya trade data analytics tool designed to help analysts, researchers, and policymakers explore trends in Kenya’s imports and exports.
@@ -23,7 +23,6 @@ It reduces repetitive manual work and increases accuracy, making trade trend ana
 
 ### Technologies
 •	 Python core (functions, loops, conditionals, error handling)
-•	 Requests (to call WITS API)
 •	 Pandas/Numpy (for data cleaning, aggregation, and transformation)
 •	 Matplotlib/Seaborn/Plotly (for visualizations)
 •	 SQLite / MySQL (for storing cleaned trade data)
@@ -31,17 +30,15 @@ It reduces repetitive manual work and increases accuracy, making trade trend ana
 •	 Jupyter Notebook (for development and documentation)
 
 ### Data Sources
-•	 API → World Integrated Trade Solution (WITS) API
-•	 Local files → CSV exports from the API for offline processing
+•	 Local files → CSV exports 
 
 ### Success Criteria
 The project is considered complete when:
-•	 Data is successfully retrieved from WITS API for at least 5 years of trade history.
+•	 Data is successfully retrieved.
 •	 The data is cleaned and stored in a local SQL database.
 •	 Users can query trade trends by year, country, and commodity.
-•	 At least three different trade insights are visualized.
-•	 Create an interactive dashboard with Streamlit or Tableau
-•	 Reports are exportable in CSV format.
+•	 Different trade insights are visualized.
+•	 Create an interactive dashboard with Tableau
 
 ### Stretch Goals
 •	 Integrate other data sources
